@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?auto=format&fit=crop&w=800&q=60",
+    "title": "Top 10 free icon libraries for developers",
+    "author_img": "https://randomuser.me/api/portraits/women/32.jpg",
+    "author": "Sadia Khan",
+    "posted_date": "May 12, 2023",
+    "reading_time": 5,
+    "hashtags": ["icons", "frontend"],
+    "imgWidth": "100%",
+    "imgHeight": "200px"
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?auto=format&fit=crop&w=800&q=60",
+    "title": "How to host static sites for free",
+    "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
+    "author": "Rehan Uddin",
+    "posted_date": "May 25, 2023",
+    "reading_time": 6,
+    "hashtags": ["hosting", "free-tools"],
+    "imgWidth": "100%",
+    "imgHeight": "200px"
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=60",
+    "title": "Best design inspiration sites in 2023",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+    "author": "Ayesha Noor",
+    "posted_date": "June 1, 2023",
+    "reading_time": 7,
+    "hashtags": ["design", "inspiration"],
+    "imgWidth": "100%",
+    "imgHeight": "200px"
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?auto=format&fit=crop&w=800&q=60",
+    "title": "Free images and resources collection for website",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "author": "Anmol Baloch",
+    "posted_date": "June 5, 2023",
+    "reading_time": 9,
+    "hashtags": ["development", "resources"],
+    "imgWidth": "100%",
+    "imgHeight": "200px"
+  }
+]
